@@ -42,7 +42,7 @@ The following models are included in this repository:
 
 * Naive Bayes
 
-* Support Vector Machines(99.11 Max in Machine Learning Models)
+* Support Vector Machines(99.11% Max in Machine Learning Models)
 
 * Random Forest
 
